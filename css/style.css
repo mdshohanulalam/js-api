@@ -1,0 +1,6 @@
+.api-card img {
+  height: 300px;
+  object-fit: cover;
+  border-radius: 10px;
+  width: 100%;
+}
